@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JMAL Yessine</h1>
+<h1 align="center">Hi 👋, I'm JMAL Yessine !</h1>
 <h3 align="center">A passionate apprentice data scientist at Airbus and a student in a student in third year (M2) at ENSEEIHT (École National Supérieure d’Électrotechnique, d’Électronique, d’Informatique, d’Hydraulique et de Télécommunications) and INSA Toulouse (Institut national des sciences appliquées) in modelisation and artificial intelligence.</h3>
 
 - 🔭 I’m currently working on **adding value to flight reports automatically using machine learning and deep learning techniques.**
